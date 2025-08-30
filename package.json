@@ -16,7 +16,7 @@
     "experience-manager-apis": "https://github.com/AdobeDocs/experience-manager-apis",
     "gatsby": "4.22.0",
     "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react-dom": "^19.1.1"
   },
   "resolutions": {
     "sharp": "0.33.0",
