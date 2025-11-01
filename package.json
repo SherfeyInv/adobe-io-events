@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@adobe/gatsby-theme-aio": "^4.14.16",
-    "experience-manager-apis": "https://github.com/AdobeDocs/experience-manager-apis",
+    "experience-manager-apis": "3.4.3",
     "gatsby": "4.22.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
