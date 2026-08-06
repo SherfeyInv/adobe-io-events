@@ -1,7 +1,7 @@
 {
-  "total": 75,
+  "total": 76,
   "offset": 0,
-  "limit": 75,
+  "limit": 76,
   "data": [
     {
       "page": "/",
@@ -63,13 +63,14 @@
     {
       "page": "/config",
       "avatars": [
+        "https://avatars.githubusercontent.com/u/2250964?v=4",
         "https://avatars.githubusercontent.com/u/22091202?v=4",
         "https://avatars.githubusercontent.com/u/6910192?v=4",
         "https://avatars.githubusercontent.com/u/148585838?v=4",
         "https://avatars.githubusercontent.com/u/218725320?v=4",
         "https://avatars.githubusercontent.com/u/14320591?v=4"
       ],
-      "lastUpdated": "4/29/2026"
+      "lastUpdated": "8/6/2026"
     },
     {
       "page": "/guides/",
@@ -489,6 +490,13 @@
         "https://avatars.githubusercontent.com/u/6012307?v=4"
       ],
       "lastUpdated": "2/17/2022"
+    },
+    {
+      "page": "/guides/using/genstudio/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/2250964?v=4"
+      ],
+      "lastUpdated": "8/6/2026"
     },
     {
       "page": "/guides/using/indesign-apis/indesign-apis-events-data-stream-setup",
