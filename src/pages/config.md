@@ -1,5 +1,5 @@
 - pathPrefix:
-  - /firefly-graph/
+  - /events/docs/
 
 - home:
   - [Adobe I/O Events](https://developer.adobe.com/events)
